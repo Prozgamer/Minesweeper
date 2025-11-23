@@ -2,7 +2,7 @@ Minesweeper
 =========
 **Простая реализация игры Сапёр на Java (Swing).
 Поддерживает уровни, прогресс, графику и звуковые эффекты.
-Ссылка на exe: https://drive.google.com/file/d/1mXvR7GXxlLUeNsl7ABiiPVIade6f-i8u/view?usp=sharing**
+Ссылка на exe: [](https://drive.google.com/file/d/1bLZd30xNXwKSIV6CMcZqdgUHN6pSsYin/view?usp=sharing)**
 
 # 🎮 Возможности
 
